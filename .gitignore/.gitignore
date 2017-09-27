@@ -1,3 +1,6 @@
+# Hide keys
+docker/firebase-service-account.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
