@@ -40,7 +40,7 @@ kubectl proxy
 
 ## Monitor the Jobs
 
-Visit localhost:8001/ui or
+Visit [localhost:8001/ui](http://localhost:8001/ui) or
 
 ```bash
 
