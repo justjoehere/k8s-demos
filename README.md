@@ -1,8 +1,11 @@
+
+<img src="http://cdn2.hubspot.net/hubfs/143457/docker_and_kubernetes.jpg" alt="" data-canonical-src="http://cdn2.hubspot.net/hubfs/143457/docker_and_kubernetes.jpg" width="170" height="80" /><a href="https://www.mabl.com/?utm_campaign=gcp&utm_source=gh&utm_medium=k8demos"><img src="http://www.mabl.com/wp-content/uploads/2017/05/logo.png" alt="" data-canonical-src="http://www.mabl.com/wp-content/uploads/2017/05/logo.png" width="80" height="80" /></a>
+
 ## Kubernetes Job Submission Demo
 
 Simple demo to send a lot of sat imagery analysis off to a Kubernetes cluster.
 
-Part of (insert slideshare link here) [Boston Google Cloud Meetup](https://www.meetup.com/Boston-Google-Cloud-Meetup/) [September Presentation](https://www.meetup.com/Boston-Google-Cloud-Meetup/events/242964121/) @ [mabl](https://www.mabl.com).
+Part of (insert slideshare link here) [Boston Google Cloud Meetup](https://www.meetup.com/Boston-Google-Cloud-Meetup/) [September Presentation](https://www.meetup.com/Boston-Google-Cloud-Meetup/events/242964121/) @ [mabl](https://www.mabl.com/?utm_campaign=gcp&utm_source=gh&utm_medium=k8demos).
 
 **WARNING** this demo uses GCP resources. This may run up a bill. Be aware of your resource usage.
 
