@@ -5,7 +5,7 @@
 
 Simple demo to send a lot of sat imagery analysis off to a Kubernetes cluster.
 
-Part of (insert slideshare link here) [Boston Google Cloud Meetup](https://www.meetup.com/Boston-Google-Cloud-Meetup/) [September Presentation](https://www.meetup.com/Boston-Google-Cloud-Meetup/events/242964121/) @ [mabl](https://www.mabl.com/?utm_campaign=gcp&utm_source=gh&utm_medium=k8demos).
+Part of (https://www.mabl.com/validating-100-million-pages-kubernetes/) [Boston Google Cloud Meetup](https://www.meetup.com/Boston-Google-Cloud-Meetup/) [September Presentation](https://www.meetup.com/Boston-Google-Cloud-Meetup/events/242964121/) @ [mabl](https://www.mabl.com/?utm_campaign=gcp&utm_source=gh&utm_medium=k8demos).
 
 **WARNING** this demo uses GCP resources. This may run up a bill. Be aware of your resource usage.
 
